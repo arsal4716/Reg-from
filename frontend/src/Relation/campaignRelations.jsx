@@ -13,7 +13,8 @@ export const campaignRelations = {
     "U65-Xfers-20K-PH",
     "Medicare-CPA-Xfers",
     "ACA-Xfers-CPL",
-    "Medicare Warm xfers"
+    "Medicare Warm xfers",
+    "HI-Xfers-windows"
   ],
   "WWWIST": [
     "ACA-Xfers-CPL",

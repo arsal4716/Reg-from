@@ -1,6 +1,7 @@
 const fieldConfig = {
   "Leads Expert": {
     "ACA CPL": ["phone", "zipcode", "exposeCallerId", "state", "agentName"],
+    "HI-Xfers-windows": ["phone", "zipcode", "exposeCallerId", "state", "agentName"],
     "ACA CPA": ["phone", "zipcode", "exposeCallerId", "state", "agentName"],
     "ACA Rev Share": ["phone", "zipcode", "exposeCallerId", "agentName", "Age"],
     "ACA Scrub": ["phone", "zipcode", "exposeCallerId", "agentName", "Age"],
