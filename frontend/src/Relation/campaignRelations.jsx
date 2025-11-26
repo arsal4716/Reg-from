@@ -33,7 +33,6 @@ export const campaignRelations = {
     "SSDI-CPL",
     "ACA-Xfers-CPL-TB-Boss",
     "FE-Xfers",
-    "OAK Lead",
     "ACA-Xfers-CPA",
     "U65-Xfers-20K-PH",
   ],
